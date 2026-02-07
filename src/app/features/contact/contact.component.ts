@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
   styleUrl: './contact.component.css',
 })
 export class ContactComponent {
-  email = 'ayeshajaavaidd@gmail.com';
-  github = 'https://github.com/Ayesha-Javaidd';
-  linkedin = 'https://www.linkedin.com/in/ayesha-javaid-240005281/';
-  resumePath = 'assets/Resume.pdf';
+  email = 'mhassanahmad905@gmail.com';
+  github = 'https://github.com/Muhammad-Hassan-522';
+  linkedin = 'https://www.linkedin.com/in/muhammad-hassan-42a823301';
+  resumePath = 'assets/resume.pdf';
 }

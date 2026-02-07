@@ -14,7 +14,7 @@ export class JourneyComponent {
     { icon: 'fab fa-react', label: 'React' },
     { icon: 'fab fa-js', label: 'TypeScript' },
     { icon: 'fab fa-html5', label: 'HTML5' },
-    { icon: 'fab fa-phone', label: 'flutter' },
+    { icon: 'fab fa-js', label: 'Next.js' },
     { icon: 'fab fa-css3-alt', label: 'CSS / Tailwind' },
   ];
 
@@ -22,7 +22,7 @@ export class JourneyComponent {
     { icon: 'fab fa-python', label: 'Python' },
     { icon: 'fas fa-database', label: 'MySQL' },
     { icon: 'fas fa-leaf', label: 'MongoDB' },
-    { icon: 'fab fa-node-js', label: 'Express.js' },
+    { icon: 'fab fa-node-js', label: 'Next.js' },
     { icon: 'fas fa-fire', label: 'Firebase' },
     { icon: 'fab fa-java', label: 'Java' },
     { icon: 'fas fa-code', label: 'C# / .NET' },
